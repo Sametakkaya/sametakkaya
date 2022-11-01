@@ -1,7 +1,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hi there wave I'm a Front-end Developer.. <br>
+# Hi there. I'm a Front-end Developer.. <br>
 
 ### 📩 Connect with me:  <br>
 ## burak_samet19@hotmail.com
