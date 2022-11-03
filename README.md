@@ -1,8 +1,7 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# Hi there ![image](https://user-images.githubusercontent.com/102583793/199744304-a40a6244-5893-4a11-a9ce-1d4ddf7b79d8.png)
- I'm a Front End Developer..
+# Hi there. I'm a Front End Developer..
 
 ### 📩 Connect with me:  <br>
 ## burak_samet19@hotmail.com
